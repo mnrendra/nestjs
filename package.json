@@ -1,6 +1,6 @@
 {
   "name": "@mnrendra/nestjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJs' Logger to prints all connection information.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -16,9 +16,9 @@
     "nestjs"
   ],
   "author": {
-    "name" : "Muhammad Rendra",
-    "email" : "muhammadnurrendra@gmail.com",
-    "url" : "https://github.com/mnrendra"
+    "name": "Muhammad Rendra",
+    "email": "muhammadnurrendra@gmail.com",
+    "url": "https://github.com/mnrendra"
   },
   "license": "UNLICENSED",
   "bugs": {
