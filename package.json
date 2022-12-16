@@ -1,6 +1,6 @@
 {
   "name": "@mnrendra/nestjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJs' Logger to prints all connection information.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
