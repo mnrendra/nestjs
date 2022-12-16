@@ -1,0 +1,5 @@
+# Distributed build files.
+dist/
+
+# Dependency directories
+node_modules/
